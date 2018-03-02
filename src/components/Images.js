@@ -1,6 +1,6 @@
 import React from 'react';
-import fish1 from '../fish1.jpeg';
-import fish2 from '../fish2.jpeg';
+import fish1 from '../img/fish1.jpeg';
+import fish2 from '../img/fish2.jpeg';
 
 const Images = () => {
     return(
